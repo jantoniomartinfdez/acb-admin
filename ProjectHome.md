@@ -1,0 +1,2 @@
+Aplicación que se encarga de gestionar la Liga Regular de la ACB, llevando el control de todos los equipos, jornadas y jugadores presentes en la liga. También controlará las relaciones entre los mismos, así como las características y datos de ellos.
+﻿
